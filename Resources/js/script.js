@@ -65,8 +65,8 @@ $(document).ready(function () {
         var exp_job_2_project_name = 'exp-job-2-project-name';
         var exp_job_2_workload_label = 'exp-job-2-workload-label';
         var exp_job_2_workload = 'exp-job-2-workload';
-        var exp_job_2_positition_label = 'exp-job-2-positition-label';
-        var exp_job_2_positition = 'exp-job-2-positition';
+        var exp_job_2_position_label = 'exp-job-2-position-label';
+        var exp_job_2_position = 'exp-job-2-position';
         var exp_job_2_period_label = 'exp-job-2-period-label';
         var exp_job_2_period = 'exp-job-2-period';
         var exp_job_2_usage_label = 'exp-job-2-usage-label';
@@ -133,8 +133,8 @@ $(document).ready(function () {
         $('#' + exp_job_2_project_name).text(language[exp_job_2_project_name]);
         $('#' + exp_job_2_workload_label).text(language[exp_job_2_workload_label]);
         $('#' + exp_job_2_workload).text(language[exp_job_2_workload]);
-        $('#' + exp_job_2_positition_label).text(language[exp_job_2_positition_label]);
-        $('#' + exp_job_2_positition).text(language[exp_job_2_positition]);
+        $('#' + exp_job_2_position_label).text(language[exp_job_2_position_label]);
+        $('#' + exp_job_2_position).text(language[exp_job_2_position]);
         $('#' + exp_job_2_usage_label).text(language[exp_job_2_usage_label]);
         $('#' + exp_job_2_usage).text(language[exp_job_2_usage]);
         $('#' + exp_job_2_learning_label).text(language[exp_job_2_learning_label]);
