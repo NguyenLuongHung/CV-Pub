@@ -65,6 +65,8 @@ $(document).ready(function () {
         var exp_job_2_project_name = 'exp-job-2-project-name';
         var exp_job_2_workload_label = 'exp-job-2-workload-label';
         var exp_job_2_workload = 'exp-job-2-workload';
+        var exp_job_2_positition_label = 'exp-job-2-positition-label';
+        var exp_job_2_positition = 'exp-job-2-positition';
         var exp_job_2_period_label = 'exp-job-2-period-label';
         var exp_job_2_period = 'exp-job-2-period';
         var exp_job_2_usage_label = 'exp-job-2-usage-label';
@@ -85,6 +87,7 @@ $(document).ready(function () {
         var exp_job_3_usage = 'exp-job-3-usage';
         var exp_job_3_learning_label = 'exp-job-3-learning-label';
         var exp_job_3_learning = 'exp-job-3-learning';
+        //----------------------------
         var read_heading = 'read-heading';
         var read_content = 'read-content';
         var sport_heading = 'sport-heading';
@@ -130,6 +133,8 @@ $(document).ready(function () {
         $('#' + exp_job_2_project_name).text(language[exp_job_2_project_name]);
         $('#' + exp_job_2_workload_label).text(language[exp_job_2_workload_label]);
         $('#' + exp_job_2_workload).text(language[exp_job_2_workload]);
+        $('#' + exp_job_2_positition_label).text(language[exp_job_2_positition_label]);
+        $('#' + exp_job_2_positition).text(language[exp_job_2_positition]);
         $('#' + exp_job_2_usage_label).text(language[exp_job_2_usage_label]);
         $('#' + exp_job_2_usage).text(language[exp_job_2_usage]);
         $('#' + exp_job_2_learning_label).text(language[exp_job_2_learning_label]);
